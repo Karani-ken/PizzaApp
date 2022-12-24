@@ -1,6 +1,6 @@
-[
+const pizzas= [
     {
-        name:"PEPPER BARBECUE CHICKEN",
+        name:"Pepper Barbecue Pizza",
         variants:["small","medium","large"],
         prices:[
             {
@@ -90,3 +90,4 @@
 
     },
 ]
+export default pizzas

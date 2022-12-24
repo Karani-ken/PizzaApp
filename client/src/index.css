@@ -6,10 +6,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: 'EB Garamond', serif important;
+  font-family: 'EB Garamond', serif;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.Header{
+  font-size: 20px;
+  font-family: 'EB Garamond';
+}
+.flex-container{
+  display: flex;
+}
+select{
+  box-shadow: none;
+  border: black;
+}
+
